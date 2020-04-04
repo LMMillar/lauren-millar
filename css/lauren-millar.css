@@ -1,41 +1,24 @@
 body{
 	margin:20px;
-	background-color: #E6E6FA;
-	font-family: 'Helvetica', 'Arial', sans-serif;
-
-}
-
-main{
-  
-  font-style: normal;
-  font-weight: 400;
-
-}
-
-@font-face {
-  font-family: "Syne";
-  font-style: normal;
-  font-weight: 400;
-  src: url(https://gitlab.com/bonjour-monde/fonderie/syne-typeface/raw/master/Webfonts/Syne-Regular.woff2) format('woff2');
-}
-
-
-div {
-  font-family: myFirstFont;
+	background-color: #000000;
 }
 
 
 
 h1{
-	color: #696969#;
-	font-family: 'Helvetica', 'Arial', sans-serif;
-	font-family: 'Syna', sans-serif;
-	line-height:1.25;
-	font-size: 40px;
+	font-family: 'Montserrat', sans-serif;
+  font-size: 100px;
+  color: #7DFA96;
+  line-height: 100px;
+}
+p{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 700;
+  color: #FFFFE0;
 }
 
 
-main{
+.main{
 	max-width: 800px;
 
 	.left, .right {
