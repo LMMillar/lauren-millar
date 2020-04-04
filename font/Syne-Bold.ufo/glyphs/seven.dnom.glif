@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="seven.dnom" format="1">
+  <advance width="384.44438"/>
+  <outline>
+    <contour>
+      <point x="261.538" y="337.001" type="line"/>
+      <point x="80.677" y="-0.076" type="line"/>
+      <point x="203.193" y="-0.076" type="line"/>
+      <point x="361.318" y="306.592" type="line"/>
+      <point x="361.318" y="393.01" type="line"/>
+      <point x="23.125" y="393.01" type="line"/>
+      <point x="23.125" y="307.743" type="line"/>
+      <point x="275.56" y="307.743" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-05-12 08:54:58 +0000</string>
+    </dict>
+  </lib>
+</glyph>

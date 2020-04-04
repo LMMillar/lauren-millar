@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="eng" format="1">
+  <advance width="692.62"/>
+  <unicode hex="014B"/>
+  <outline>
+    <contour>
+      <point x="632.624" y="84" type="line"/>
+      <point x="502.624" y="84" type="line"/>
+      <point x="502.624" y="0" type="line"/>
+      <point x="632.624" y="-35.625" type="line"/>
+    </contour>
+    <contour>
+      <point x="370.124" y="-105" type="curve"/>
+      <point x="370.124" y="-211.562" type="line"/>
+      <point x="553.444" y="-211.562"/>
+      <point x="632.624" y="-149.91"/>
+      <point x="632.624" y="-35.625" type="curve"/>
+      <point x="502.624" y="0" type="line"/>
+      <point x="502.624" y="-72.587"/>
+      <point x="465.43" y="-105"/>
+    </contour>
+    <component base="n"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>n</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-05-13 09:08:17 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>n</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>n</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="integral" format="1">
+  <advance width="503.5"/>
+  <unicode hex="222B"/>
+  <outline>
+    <contour>
+      <point x="186.75" y="590" type="line"/>
+      <point x="186.75" y="94.375" type="line"/>
+      <point x="316.75" y="60" type="line"/>
+      <point x="316.75" y="555.625" type="line"/>
+    </contour>
+    <contour>
+      <point x="480.379" y="760" type="line"/>
+      <point x="356.75" y="760" type="line"/>
+      <point x="256.75" y="760"/>
+      <point x="186.75" y="710"/>
+      <point x="186.75" y="590" type="curve"/>
+      <point x="316.75" y="555.625" type="line"/>
+      <point x="316.75" y="627.028"/>
+      <point x="356.75" y="646.568"/>
+      <point x="406.75" y="645.625" type="curve"/>
+      <point x="480.379" y="645.625" type="line"/>
+    </contour>
+    <contour>
+      <point x="23.121" y="-110" type="line"/>
+      <point x="143.625" y="-110" type="line"/>
+      <point x="243.625" y="-110"/>
+      <point x="316.75" y="-60"/>
+      <point x="316.75" y="60" type="curve"/>
+      <point x="186.75" y="94.375" type="line"/>
+      <point x="186.75" y="22.972"/>
+      <point x="146.75" y="3.432"/>
+      <point x="96.75" y="4.375" type="curve"/>
+      <point x="23.121" y="4.375" type="line"/>
+    </contour>
+    <contour>
+      <point x="299.125" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="299.125" y="500" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-04-25 11:04:19 +0000</string>
+    </dict>
+  </lib>
+</glyph>

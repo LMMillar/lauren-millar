@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zero.dnom" format="1">
+  <advance width="482.97"/>
+  <outline>
+    <contour>
+      <point x="241.485" y="401.547" type="curve"/>
+      <point x="107.111" y="401.547"/>
+      <point x="36.384" y="317.956"/>
+      <point x="36.384" y="194.055" type="curve"/>
+      <point x="36.384" y="70.467"/>
+      <point x="107.111" y="-13.125"/>
+      <point x="241.485" y="-13.125" type="curve"/>
+      <point x="375.859" y="-13.125"/>
+      <point x="446.586" y="70.467"/>
+      <point x="446.586" y="194.055" type="curve"/>
+      <point x="446.586" y="317.956"/>
+      <point x="375.859" y="401.547"/>
+    </contour>
+    <contour>
+      <point x="241.485" y="87.067" type="curve"/>
+      <point x="178.733" y="87.067"/>
+      <point x="145.784" y="128.049"/>
+      <point x="145.784" y="194.055" type="curve"/>
+      <point x="145.784" y="259.748"/>
+      <point x="179.046" y="300.418"/>
+      <point x="241.485" y="300.418" type="curve"/>
+      <point x="303.612" y="300.418"/>
+      <point x="335.623" y="259.748"/>
+      <point x="335.623" y="194.055" type="curve"/>
+      <point x="335.623" y="127.737"/>
+      <point x="303.612" y="87.067"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-05-13 08:44:02 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>o</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>o</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="commaaccentcomb.ss03" format="1">
+  <advance width="306.2625"/>
+  <outline>
+    <contour>
+      <point x="86.634" y="-215.275" type="curve"/>
+      <point x="98.406" y="-249.368" type="line"/>
+      <point x="183.966" y="-232.04"/>
+      <point x="229.695" y="-185.308"/>
+      <point x="229.695" y="-113.101" type="curve"/>
+      <point x="229.695" y="-60.872" type="line"/>
+      <point x="76.559" y="-60.872" type="line"/>
+      <point x="76.559" y="-152.987" type="line"/>
+      <point x="137.801" y="-163.947" type="line"/>
+      <point x="134.947" y="-191.825"/>
+      <point x="86.634" y="-215.275"/>
+    </contour>
+    <contour>
+      <point x="153.126" y="0" type="move" name="_bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-05-12 09:05:44 +0000</string>
+    </dict>
+  </lib>
+</glyph>

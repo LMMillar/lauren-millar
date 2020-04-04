@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ampersand.case" format="1">
+  <advance width="788.2575"/>
+  <outline>
+    <contour>
+      <point x="768.564" y="280.348" type="line"/>
+      <point x="768.564" y="385.348" type="line"/>
+      <point x="174.077" y="385.348" type="line"/>
+      <point x="174.077" y="280.348" type="line"/>
+    </contour>
+    <contour>
+      <point x="632.091" y="338.117" type="line"/>
+      <point x="508.966" y="338.117" type="line"/>
+      <point x="508.966" y="-146.349" type="line"/>
+      <point x="632.091" y="-146.349" type="line"/>
+    </contour>
+    <contour>
+      <point x="457.217" y="646.875" type="line"/>
+      <point x="174.875" y="646.875" type="line"/>
+      <point x="174.875" y="535.938" type="line"/>
+      <point x="457.217" y="535.938" type="line"/>
+    </contour>
+    <contour>
+      <point x="591.496" y="110.938" type="line"/>
+      <point x="174.875" y="110.938" type="line"/>
+      <point x="174.875" y="0" type="line"/>
+      <point x="591.496" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="206.875" y="646.875" type="line"/>
+      <point x="76.875" y="646.875" type="line"/>
+      <point x="76.875" y="0" type="line"/>
+      <point x="206.875" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-05-13 08:44:02 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>E</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>T</string>
+    </dict>
+  </lib>
+</glyph>

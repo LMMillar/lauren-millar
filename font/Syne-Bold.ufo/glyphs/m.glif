@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="m" format="1">
+  <advance width="1125.9475"/>
+  <unicode hex="006D"/>
+  <outline>
+    <contour>
+      <point x="1068.569" y="303.688" type="line"/>
+      <point x="938.569" y="280.562" type="line"/>
+      <point x="938.569" y="0" type="line"/>
+      <point x="1068.569" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="938.569" y="280.562" type="curve"/>
+      <point x="1068.569" y="303.688" type="line"/>
+      <point x="1068.569" y="444.523"/>
+      <point x="976.339" y="508.438"/>
+      <point x="854.069" y="508.438" type="curve"/>
+      <point x="719.26" y="508.438"/>
+      <point x="628.37" y="412.08"/>
+      <point x="615.444" y="323.438" type="curve"/>
+      <point x="616.756" y="268.562" type="line"/>
+      <point x="622.93" y="333.559"/>
+      <point x="703.966" y="403.438"/>
+      <point x="808.069" y="403.438" type="curve"/>
+      <point x="899.856" y="403.438"/>
+      <point x="938.569" y="364.684"/>
+    </contour>
+    <component base="n"/>
+    <contour>
+      <point x="584.062" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="622.125" y="500" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>n</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-05-13 08:54:07 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>n</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>n</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

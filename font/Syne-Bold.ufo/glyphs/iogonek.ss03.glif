@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="iogonek.ss03" format="1">
+  <advance width="267.68125"/>
+  <outline>
+    <component base="i"/>
+    <component base="ogonekcomb.ss03" xOffset="-143.377"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>ogonekcomb.ss03</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-05-13 09:08:57 +0000</string>
+    </dict>
+  </lib>
+</glyph>

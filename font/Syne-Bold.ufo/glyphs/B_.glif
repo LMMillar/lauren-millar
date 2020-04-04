@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="B" format="1">
+  <advance width="779.75"/>
+  <unicode hex="0042"/>
+  <outline>
+    <contour>
+      <point x="449.75" y="646.875" type="curve"/>
+      <point x="452.25" y="536.562" type="line"/>
+      <point x="526.858" y="536.562"/>
+      <point x="576.312" y="514.516"/>
+      <point x="576.312" y="455.312" type="curve"/>
+      <point x="576.312" y="395.062"/>
+      <point x="529.168" y="372.812"/>
+      <point x="445.375" y="372.812" type="curve"/>
+      <point x="417.875" y="320.125" type="line"/>
+      <point x="594.75" y="320.125"/>
+      <point x="715" y="344.406"/>
+      <point x="715" y="473.969" type="curve"/>
+      <point x="715" y="588.297"/>
+      <point x="622.742" y="646.875"/>
+    </contour>
+    <contour>
+      <point x="449.75" y="646.875" type="line"/>
+      <point x="141.375" y="646.875" type="line"/>
+      <point x="141.375" y="536.562" type="line"/>
+      <point x="452.25" y="536.562" type="line"/>
+    </contour>
+    <contour>
+      <point x="445.375" y="372.812" type="line"/>
+      <point x="141.375" y="372.812" type="line"/>
+      <point x="141.375" y="266.25" type="line"/>
+      <point x="458.5" y="266.25" type="line"/>
+    </contour>
+    <contour>
+      <point x="417.875" y="329.5" type="curve"/>
+      <point x="458.5" y="266.25" type="line"/>
+      <point x="535.375" y="266.25"/>
+      <point x="603.188" y="262.498"/>
+      <point x="603.188" y="196.31" type="curve"/>
+      <point x="603.188" y="136.06"/>
+      <point x="556" y="110.312"/>
+      <point x="472.25" y="110.312" type="curve"/>
+      <point x="472.25" y="0" type="line"/>
+      <point x="630.375" y="0"/>
+      <point x="739.438" y="57"/>
+      <point x="739.438" y="181" type="curve"/>
+      <point x="739.438" y="328.812"/>
+      <point x="581.625" y="329.5"/>
+    </contour>
+    <contour>
+      <point x="486" y="110.312" type="line"/>
+      <point x="154.5" y="110.312" type="line"/>
+      <point x="154.5" y="0" type="line"/>
+      <point x="486" y="0" type="line"/>
+    </contour>
+    <component base="fut-v" xOffset="28.250"/>
+    <contour>
+      <point x="377.625" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="377.625" y="680" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>fut-v</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-05-13 08:43:29 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>H</string>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

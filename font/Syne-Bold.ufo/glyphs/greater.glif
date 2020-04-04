@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="greater" format="1">
+  <advance width="537.95938"/>
+  <unicode hex="003E"/>
+  <outline>
+    <contour>
+      <point x="471.084" y="344.439" type="line"/>
+      <point x="143.246" y="530.292" type="line"/>
+      <point x="93.726" y="440.171" type="line"/>
+      <point x="471.084" y="234.604" type="line"/>
+    </contour>
+    <contour>
+      <point x="93.726" y="141.997" type="line"/>
+      <point x="143.246" y="48.752" type="line"/>
+      <point x="471.084" y="234.604" type="line"/>
+      <point x="471.084" y="344.439" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-04-25 11:04:19 +0000</string>
+    </dict>
+  </lib>
+</glyph>

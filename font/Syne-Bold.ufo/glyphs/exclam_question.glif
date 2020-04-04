@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="exclam_question" format="1">
+  <advance width="852.87"/>
+  <outline>
+    <contour>
+      <point x="599.268" y="257.644" type="curve"/>
+      <point x="723.737" y="257.644"/>
+      <point x="801.93" y="347.808"/>
+      <point x="801.93" y="469.623" type="curve"/>
+      <point x="801.93" y="608.792"/>
+      <point x="643.19" y="707.762"/>
+      <point x="500.293" y="707.762" type="curve"/>
+      <point x="386.85" y="707.762"/>
+      <point x="312.863" y="638.404"/>
+      <point x="293.552" y="562.809" type="curve"/>
+      <point x="415.687" y="523.456" type="line"/>
+      <point x="428.877" y="566.09"/>
+      <point x="463.758" y="592.414"/>
+      <point x="510.383" y="592.414" type="curve"/>
+      <point x="579.625" y="592.414"/>
+      <point x="668.22" y="542.704"/>
+      <point x="668.22" y="471.58" type="curve"/>
+      <point x="668.22" y="410.515"/>
+      <point x="631.34" y="358.657"/>
+      <point x="563.117" y="358.657" type="curve"/>
+      <point x="541.294" y="358.657"/>
+      <point x="514.193" y="364.743"/>
+      <point x="480.381" y="375.486" type="curve"/>
+      <point x="424.254" y="394.371" type="line"/>
+      <point x="375.428" y="228.754" type="line"/>
+      <point x="491.107" y="191.752" type="line"/>
+      <point x="512.763" y="271.748" type="line"/>
+      <point x="542.971" y="262.777"/>
+      <point x="572.353" y="257.644"/>
+    </contour>
+    <contour>
+      <point x="30.629" y="656.395" type="line"/>
+      <point x="202.033" y="181.427" type="line"/>
+      <point x="325.089" y="226.507" type="line"/>
+      <point x="153.684" y="701.474" type="line"/>
+    </contour>
+    <component base="period" xOffset="216.971"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>period</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-05-13 09:13:52 +0000</string>
+    </dict>
+  </lib>
+</glyph>

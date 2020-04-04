@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="sterling" format="1">
+  <advance width="658.35312"/>
+  <unicode hex="00A3"/>
+  <outline>
+    <contour>
+      <point x="33.979" y="329.678" type="line"/>
+      <point x="33.979" y="268.115" type="line"/>
+      <point x="452.987" y="268.115" type="line"/>
+      <point x="452.987" y="329.678" type="line"/>
+    </contour>
+    <contour>
+      <point x="288.691" y="226.951" type="curve"/>
+      <point x="288.691" y="310.361"/>
+      <point x="184.37" y="364.87"/>
+      <point x="184.37" y="457.884" type="curve"/>
+      <point x="184.37" y="524.044"/>
+      <point x="249.535" y="548.268"/>
+      <point x="331.125" y="548.268" type="curve"/>
+      <point x="410.456" y="548.268"/>
+      <point x="478.957" y="511.656"/>
+      <point x="480.883" y="458.837" type="curve"/>
+      <point x="618.383" y="458.837" type="line"/>
+      <point x="618.383" y="581.042"/>
+      <point x="495.717" y="660.304"/>
+      <point x="326.437" y="660.304" type="curve"/>
+      <point x="166.523" y="660.304"/>
+      <point x="53.865" y="596.042"/>
+      <point x="53.865" y="480.595" type="curve"/>
+      <point x="53.865" y="402.031"/>
+      <point x="120.686" y="349.617"/>
+      <point x="162.457" y="314.01" type="curve"/>
+      <point x="172.768" y="309.085"/>
+      <point x="159.007" y="294.547"/>
+      <point x="165.622" y="285.967" type="curve"/>
+      <point x="178.855" y="263.55"/>
+      <point x="188.191" y="241.552"/>
+      <point x="188.191" y="218.513" type="curve"/>
+      <point x="188.191" y="138.678"/>
+      <point x="73.424" y="110.505"/>
+      <point x="73.424" y="110.505" type="curve"/>
+      <point x="73.424" y="0.055" type="line"/>
+      <point x="596.94" y="0.055" type="line"/>
+      <point x="596.94" y="110.505" type="line"/>
+      <point x="179.654" y="110.505" type="line"/>
+      <point x="203.903" y="117.935"/>
+      <point x="288.691" y="146.724"/>
+    </contour>
+    <contour>
+      <point x="259.342" y="291.709" type="move" name="_center"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-05-13 09:08:14 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>two</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>two</string>
+    </dict>
+  </lib>
+</glyph>

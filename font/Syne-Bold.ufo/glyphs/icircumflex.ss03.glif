@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="icircumflex.ss03" format="1">
+  <advance width="246.875"/>
+  <outline>
+    <component base="idotless"/>
+    <component base="circumflexcomb.ss03" xOffset="-210.341" yOffset="-1.562"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-05-02 15:42:07 +0000</string>
+      <key>public.markColor</key>
+      <string>0.97,0.9,0,1</string>
+    </dict>
+  </lib>
+</glyph>

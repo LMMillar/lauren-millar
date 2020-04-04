@@ -5,10 +5,28 @@ body{
 
 }
 
+main{
+  
+  font-style: normal;
+  font-weight: 400;
+
+}
+
+@font-face {
+  font-family: myFirstFont;
+  src: url(Syne-Bold.woff);
+}
+
+div {
+  font-family: myFirstFont;
+}
+
+
+
 h1{
 	color: #696969#;
 	font-family: 'Helvetica', 'Arial', sans-serif;
-	font-family: 'BioRhyme', serif;
+	font-family: 'Syna', sans-serif;
 	line-height:1.25;
 	font-size: 40px;
 }

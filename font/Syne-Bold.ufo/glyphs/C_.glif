@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="C" format="1">
+  <advance width="885.3625"/>
+  <unicode hex="0043"/>
+  <outline>
+    <contour>
+      <point x="831.818" y="233.105" type="curve"/>
+      <point x="699.689" y="233.105" type="line"/>
+      <point x="672.486" y="152.162"/>
+      <point x="595.671" y="101.375"/>
+      <point x="463.688" y="101.375" type="curve"/>
+      <point x="299.125" y="101.375"/>
+      <point x="189.688" y="177.75"/>
+      <point x="189.688" y="321.875" type="curve"/>
+      <point x="189.688" y="468"/>
+      <point x="299.125" y="545.375"/>
+      <point x="463.688" y="545.375" type="curve"/>
+      <point x="595.955" y="545.375"/>
+      <point x="673.034" y="493.767"/>
+      <point x="700.033" y="409.542" type="curve"/>
+      <point x="832.228" y="409.542" type="line"/>
+      <point x="815.135" y="567.168"/>
+      <point x="681.744" y="660"/>
+      <point x="463.688" y="660" type="curve"/>
+      <point x="220.688" y="660"/>
+      <point x="53.125" y="544.625"/>
+      <point x="53.125" y="321.875" type="curve"/>
+      <point x="53.125" y="99.125"/>
+      <point x="220.688" y="-13.125"/>
+      <point x="463.688" y="-13.125" type="curve"/>
+      <point x="681.254" y="-13.125"/>
+      <point x="814.312" y="76.135"/>
+    </contour>
+    <contour>
+      <point x="463.375" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="477.812" y="340" type="move" name="center"/>
+    </contour>
+    <contour>
+      <point x="774.438" y="0" type="move" name="ogonek"/>
+    </contour>
+    <contour>
+      <point x="454" y="637.5" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="18.438" y="680" type="move" name="topleft"/>
+    </contour>
+    <contour>
+      <point x="937.188" y="680" type="move" name="topright"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-06-11 08:13:00 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>O</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>O</string>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="R" format="1">
+  <advance width="826.375"/>
+  <unicode hex="0052"/>
+  <outline>
+    <contour>
+      <point x="515.75" y="646.875" type="curve"/>
+      <point x="515.75" y="532.812" type="line"/>
+      <point x="590.607" y="532.812"/>
+      <point x="630.764" y="502.188"/>
+      <point x="630.764" y="443.125" type="curve"/>
+      <point x="630.764" y="381.062"/>
+      <point x="590.812" y="342.875"/>
+      <point x="515.75" y="342.875" type="curve"/>
+      <point x="503.562" y="274.688" type="line"/>
+      <point x="639.188" y="274.688"/>
+      <point x="763.875" y="307.312"/>
+      <point x="763.875" y="450.938" type="curve"/>
+      <point x="763.875" y="587.062"/>
+      <point x="665.125" y="646.875"/>
+    </contour>
+    <contour>
+      <point x="515.75" y="646.875" type="line"/>
+      <point x="206.75" y="646.875" type="line"/>
+      <point x="206.75" y="532.812" type="line"/>
+      <point x="515.75" y="532.812" type="line"/>
+    </contour>
+    <contour>
+      <point x="515.75" y="342.875" type="line"/>
+      <point x="206.75" y="342.875" type="line"/>
+      <point x="206.75" y="239.125" type="line"/>
+      <point x="503.562" y="239.125" type="line"/>
+    </contour>
+    <contour>
+      <point x="488.875" y="284.812" type="curve"/>
+      <point x="460.75" y="239.125" type="line"/>
+      <point x="586.375" y="239.125"/>
+      <point x="616.999" y="218.563"/>
+      <point x="616.999" y="144.812" type="curve"/>
+      <point x="616.999" y="0" type="line"/>
+      <point x="749.909" y="0" type="line"/>
+      <point x="749.909" y="154.188" type="line" smooth="yes"/>
+      <point x="749.909" y="274.688"/>
+      <point x="666.062" y="284.812"/>
+    </contour>
+    <component base="fut-v" xOffset="28.250"/>
+    <contour>
+      <point x="404.938" y="-4.688" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="408.062" y="634.375" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>fut-v</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-05-13 08:43:29 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>H</string>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

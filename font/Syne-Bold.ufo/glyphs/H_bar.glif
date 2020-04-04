@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Hbar" format="1">
+  <advance width="895.1"/>
+  <unicode hex="0126"/>
+  <outline>
+    <contour>
+      <point x="858.224" y="535.75" type="line"/>
+      <point x="36.875" y="535.75" type="line"/>
+      <point x="36.875" y="460.75" type="line"/>
+      <point x="858.224" y="460.75" type="line"/>
+    </contour>
+    <component base="H" xOffset="0.312"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>H</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-05-13 08:44:02 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=H-40</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=H-40</string>
+    </dict>
+  </lib>
+</glyph>

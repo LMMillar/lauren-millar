@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="four.dnom" format="1">
+  <advance width="453.47188"/>
+  <outline>
+    <contour>
+      <point x="344.61" y="71.676" type="line"/>
+      <point x="413.163" y="71.676" type="line"/>
+      <point x="413.163" y="150.864" type="line"/>
+      <point x="344.61" y="150.864" type="line"/>
+      <point x="361.36" y="139.301" type="line"/>
+      <point x="361.36" y="393.039" type="line"/>
+      <point x="260.401" y="393.039" type="line"/>
+      <point x="46.562" y="154.324" type="line"/>
+      <point x="46.562" y="71.676" type="line"/>
+      <point x="270.325" y="71.676" type="line"/>
+      <point x="248.45" y="87.739" type="line"/>
+      <point x="248.45" y="-0.15" type="line"/>
+      <point x="361.36" y="-0.15" type="line"/>
+      <point x="361.36" y="87.739" type="line"/>
+    </contour>
+    <contour>
+      <point x="267.2" y="146.801" type="line"/>
+      <point x="141.047" y="146.801" type="line"/>
+      <point x="147.794" y="134.361" type="line"/>
+      <point x="277.228" y="307.3" type="line"/>
+      <point x="251.575" y="304.102" type="line"/>
+      <point x="251.575" y="138.364" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-05-13 08:54:15 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>four</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>four</string>
+    </dict>
+  </lib>
+</glyph>

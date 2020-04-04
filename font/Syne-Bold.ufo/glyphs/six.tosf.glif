@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="six.tosf" format="1">
+  <advance width="707.8125"/>
+  <outline>
+    <contour>
+      <point x="404.382" y="426.002" type="curve"/>
+      <point x="269.59" y="426.002"/>
+      <point x="210.133" y="338.82"/>
+      <point x="104.964" y="197.468" type="curve"/>
+      <point x="144.33" y="230.688" type="line"/>
+      <point x="468.957" y="646.963" type="line"/>
+      <point x="304.434" y="646.963" type="line"/>
+      <point x="304.434" y="646.963"/>
+      <point x="102.634" y="341.951"/>
+      <point x="87.253" y="315.676" type="curve"/>
+      <point x="59.775" y="271.744"/>
+      <point x="51.994" y="234.332"/>
+      <point x="51.613" y="202.471" type="curve"/>
+      <point x="50.037" y="64.971"/>
+      <point x="178.147" y="-13.103"/>
+      <point x="364.707" y="-13.103" type="curve"/>
+      <point x="541.793" y="-13.103"/>
+      <point x="654.565" y="73.962"/>
+      <point x="656.159" y="206.828" type="curve"/>
+      <point x="657.749" y="339.252"/>
+      <point x="553.164" y="426.002"/>
+    </contour>
+    <contour>
+      <point x="357.939" y="93.366" type="curve"/>
+      <point x="258.752" y="93.366"/>
+      <point x="183.697" y="132.241"/>
+      <point x="184.749" y="208.39" type="curve"/>
+      <point x="185.677" y="276.278"/>
+      <point x="256.167" y="326.053"/>
+      <point x="361.977" y="326.053" type="curve"/>
+      <point x="458.189" y="326.053"/>
+      <point x="524.09" y="283.619"/>
+      <point x="523.047" y="209.159" type="curve"/>
+      <point x="521.989" y="132.625"/>
+      <point x="453.982" y="93.366"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-05-13 09:03:52 +0000</string>
+    </dict>
+  </lib>
+</glyph>

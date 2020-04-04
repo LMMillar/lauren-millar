@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="nine.osf" format="1">
+  <advance width="697.22938"/>
+  <outline>
+    <contour>
+      <point x="297.528" y="74.055" type="curve"/>
+      <point x="435.473" y="74.055"/>
+      <point x="510.555" y="161.237"/>
+      <point x="615.724" y="299.464" type="curve"/>
+      <point x="576.358" y="269.369" type="line"/>
+      <point x="239.231" y="-150.031" type="line"/>
+      <point x="403.754" y="-150.031" type="line"/>
+      <point x="403.754" y="-150.031"/>
+      <point x="614.929" y="154.98"/>
+      <point x="628.754" y="179.835" type="curve"/>
+      <point x="657.788" y="225.188"/>
+      <point x="668.694" y="262.6"/>
+      <point x="669.075" y="297.585" type="curve"/>
+      <point x="670.651" y="435.086"/>
+      <point x="549.121" y="511.597"/>
+      <point x="350.041" y="511.597" type="curve"/>
+      <point x="151.1" y="511.597"/>
+      <point x="37.998" y="429.219"/>
+      <point x="36.404" y="293.229" type="curve"/>
+      <point x="34.814" y="160.804"/>
+      <point x="142.837" y="74.055"/>
+    </contour>
+    <contour>
+      <point x="349.918" y="407.003" type="curve"/>
+      <point x="458.517" y="407.003"/>
+      <point x="536.991" y="368.44"/>
+      <point x="535.939" y="291.666" type="curve"/>
+      <point x="535.011" y="223.154"/>
+      <point x="461.067" y="174.004"/>
+      <point x="345.843" y="174.004" type="curve"/>
+      <point x="237.169" y="174.004"/>
+      <point x="168.474" y="215.812"/>
+      <point x="169.516" y="290.898" type="curve"/>
+      <point x="170.574" y="368.057"/>
+      <point x="241.411" y="407.003"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-05-13 09:08:14 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>o</string>
+    </dict>
+  </lib>
+</glyph>

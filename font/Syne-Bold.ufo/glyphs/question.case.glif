@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="question.case" format="1">
+  <advance width="580.90312"/>
+  <outline>
+    <contour>
+      <point x="282.849" y="366.887" type="line"/>
+      <point x="209.834" y="366.614" type="line"/>
+      <point x="209.834" y="201" type="line"/>
+      <point x="336.708" y="201" type="line"/>
+      <point x="336.708" y="292.313" type="line"/>
+    </contour>
+    <contour>
+      <point x="282.849" y="366.887" type="curve"/>
+      <point x="312.097" y="268.469" type="line"/>
+      <point x="441.139" y="268.513"/>
+      <point x="539.041" y="334.745"/>
+      <point x="539.041" y="462.47" type="curve"/>
+      <point x="539.041" y="572.917"/>
+      <point x="461.556" y="660.304"/>
+      <point x="289.036" y="660.304" type="curve"/>
+      <point x="117.143" y="660.304"/>
+      <point x="39.033" y="551.667"/>
+      <point x="42.158" y="461.845" type="curve"/>
+      <point x="170.595" y="461.845" type="line"/>
+      <point x="172.983" y="509.404"/>
+      <point x="212.15" y="546.241"/>
+      <point x="289.036" y="546.241" type="curve"/>
+      <point x="364.361" y="546.241"/>
+      <point x="405.916" y="513.282"/>
+      <point x="405.916" y="459.345" type="curve"/>
+      <point x="405.916" y="405.409"/>
+      <point x="360.924" y="366.887"/>
+    </contour>
+    <component base="period" xOffset="135.209"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>period</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-05-13 08:35:53 +0000</string>
+    </dict>
+  </lib>
+</glyph>

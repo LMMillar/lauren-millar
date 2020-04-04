@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Uogonek.ss03" format="1">
+  <advance width="880.625"/>
+  <outline>
+    <contour>
+      <point x="642.917" y="-227.5" type="curve"/>
+      <point x="642.917" y="-159.062" type="line"/>
+      <point x="570.105" y="-159.062"/>
+      <point x="521.699" y="-131.562"/>
+      <point x="521.699" y="-83.438" type="curve"/>
+      <point x="521.699" y="-38.75"/>
+      <point x="560.886" y="-11.562"/>
+      <point x="616.011" y="9.312" type="curve"/>
+      <point x="616.011" y="28.188" type="line"/>
+      <point x="506.074" y="7.312"/>
+      <point x="420.761" y="-22.562"/>
+      <point x="420.761" y="-102.812" type="curve"/>
+      <point x="420.761" y="-179.938"/>
+      <point x="506.73" y="-227.5"/>
+    </contour>
+    <component base="U"/>
+    <contour>
+      <point x="528.822" y="-4.688" type="move" name="_ogonek"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>U</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-05-13 09:08:14 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>U</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>U</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="breve.ss03" format="1">
+  <advance width="638.75"/>
+  <outline>
+    <contour>
+      <point x="529.375" y="730" type="curve"/>
+      <point x="434.375" y="730" type="line"/>
+      <point x="425" y="683.5"/>
+      <point x="389.25" y="658.5"/>
+      <point x="319.375" y="658.5" type="curve"/>
+      <point x="249.5" y="658.5"/>
+      <point x="213.75" y="683.5"/>
+      <point x="204.375" y="730" type="curve"/>
+      <point x="109.375" y="730" type="line"/>
+      <point x="121.875" y="643.125"/>
+      <point x="185.5" y="579.125"/>
+      <point x="319.375" y="579.125" type="curve"/>
+      <point x="453.25" y="579.125"/>
+      <point x="516.875" y="643.125"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-05-02 15:42:07 +0000</string>
+    </dict>
+  </lib>
+</glyph>

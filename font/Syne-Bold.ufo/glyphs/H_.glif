@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="H" format="1">
+  <advance width="895"/>
+  <unicode hex="0048"/>
+  <outline>
+    <contour>
+      <point x="787.188" y="379.812" type="line"/>
+      <point x="193.938" y="379.812" type="line"/>
+      <point x="193.938" y="268.875" type="line"/>
+      <point x="787.188" y="268.875" type="line"/>
+    </contour>
+    <component base="fut-v" xOffset="636.375"/>
+    <component base="fut-v" xOffset="28.250"/>
+    <contour>
+      <point x="465.625" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="465.625" y="340" type="move" name="center"/>
+    </contour>
+    <contour>
+      <point x="465.625" y="680" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="19.375" y="680" type="move" name="topleft"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>fut-v</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>fut-v</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-05-13 08:43:29 +0000</string>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

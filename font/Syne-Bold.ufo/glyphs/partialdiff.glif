@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="partialdiff" format="1">
+  <advance width="702.4375"/>
+  <unicode hex="2202"/>
+  <outline>
+    <contour>
+      <point x="344" y="-11.562" type="curve"/>
+      <point x="522.657" y="-11.562"/>
+      <point x="649.312" y="101.946"/>
+      <point x="649.312" y="261.878" type="curve"/>
+      <point x="548.062" y="249" type="line"/>
+      <point x="548.062" y="391.628"/>
+      <point x="464.173" y="499.062"/>
+      <point x="295.875" y="499.062" type="curve"/>
+      <point x="148.312" y="499.062"/>
+      <point x="36.375" y="404.769"/>
+      <point x="36.375" y="247.75" type="curve"/>
+      <point x="36.375" y="92.688"/>
+      <point x="152.5" y="-11.562"/>
+    </contour>
+    <contour>
+      <point x="350.25" y="89.188" type="curve"/>
+      <point x="239.868" y="89.188"/>
+      <point x="169.188" y="147.312"/>
+      <point x="169.188" y="244.312" type="curve"/>
+      <point x="169.188" y="339.123"/>
+      <point x="235.85" y="399.875"/>
+      <point x="347.125" y="399.875" type="curve"/>
+      <point x="447.605" y="399.875"/>
+      <point x="534.938" y="344"/>
+      <point x="534.938" y="245.875" type="curve"/>
+      <point x="534.938" y="149"/>
+      <point x="453.188" y="89.188"/>
+    </contour>
+    <contour>
+      <point x="181.203" y="708.822" type="curve"/>
+      <point x="161.243" y="613.611" type="line"/>
+      <point x="468.177" y="549.589"/>
+      <point x="544.752" y="416.483"/>
+      <point x="534.938" y="243.875" type="curve"/>
+      <point x="649.312" y="261.878" type="line"/>
+      <point x="649.312" y="416.089"/>
+      <point x="565.375" y="632.758"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-05-13 09:08:14 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>O</string>
+    </dict>
+  </lib>
+</glyph>

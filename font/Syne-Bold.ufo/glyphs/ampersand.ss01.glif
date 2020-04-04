@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ampersand.ss01" format="1">
+  <advance width="802.10938"/>
+  <outline>
+    <contour>
+      <point x="92.126" y="548.438" type="line"/>
+      <point x="646.267" y="0" type="line"/>
+      <point x="781.486" y="0" type="line"/>
+      <point x="150.204" y="646.875" type="line"/>
+    </contour>
+    <contour>
+      <point x="639.298" y="646.875" type="line"/>
+      <point x="92.126" y="646.875" type="line"/>
+      <point x="92.126" y="548.438" type="line"/>
+      <point x="639.298" y="548.438" type="line"/>
+    </contour>
+    <contour>
+      <point x="347.541" y="-12.916" type="curve"/>
+      <point x="591.444" y="-12.916"/>
+      <point x="718.044" y="112.38"/>
+      <point x="734.225" y="287.689" type="curve"/>
+      <point x="620.997" y="287.689" type="line"/>
+      <point x="609.791" y="174.425"/>
+      <point x="536.197" y="96.173"/>
+      <point x="364.572" y="96.173" type="curve"/>
+      <point x="249.207" y="96.173"/>
+      <point x="176.885" y="133.661"/>
+      <point x="176.885" y="206.834" type="curve"/>
+      <point x="176.885" y="277.692"/>
+      <point x="246.428" y="315.622"/>
+      <point x="344.431" y="315.622" type="curve"/>
+      <point x="316.619" y="372.21" type="line"/>
+      <point x="187.932" y="372.21"/>
+      <point x="53.135" y="319.929"/>
+      <point x="53.135" y="189.209" type="curve"/>
+      <point x="53.135" y="67.931"/>
+      <point x="166.284" y="-12.916"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-05-13 08:44:02 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>O</string>
+    </dict>
+  </lib>
+</glyph>

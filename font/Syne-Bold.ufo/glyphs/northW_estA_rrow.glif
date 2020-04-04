@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="northWestArrow" format="1">
+  <advance width="795.83938"/>
+  <unicode hex="2196"/>
+  <outline>
+    <component base="leftArrow" xScale="0.7071" xyScale="-0.7071" yScale="0.7071" yxScale="0.7071" xOffset="-125.604" yOffset="481.376"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>leftArrow</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-05-12 09:16:35 +0000</string>
+    </dict>
+  </lib>
+</glyph>

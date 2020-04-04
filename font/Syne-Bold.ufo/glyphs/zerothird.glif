@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zerothird" format="1">
+  <advance width="995.325"/>
+  <unicode hex="2189"/>
+  <outline>
+    <component base="zero.numr"/>
+    <component base="fraction" xOffset="482.970"/>
+    <component base="three.dnom" xOffset="566.970"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-05-13 09:05:09 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>zero.numr</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>zero.numr</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ogonek.ss03" format="1">
+  <advance width="422.15625"/>
+  <outline>
+    <contour>
+      <point x="322.156" y="-222.812" type="curve"/>
+      <point x="322.156" y="-154.375" type="line"/>
+      <point x="249.344" y="-154.375"/>
+      <point x="200.938" y="-126.875"/>
+      <point x="200.938" y="-78.75" type="curve"/>
+      <point x="200.938" y="-34.062"/>
+      <point x="240.125" y="-10"/>
+      <point x="295.25" y="0" type="curve"/>
+      <point x="295.25" y="22" type="line"/>
+      <point x="185.312" y="12"/>
+      <point x="100" y="-17.875"/>
+      <point x="100" y="-98.125" type="curve"/>
+      <point x="100" y="-175.25"/>
+      <point x="185.969" y="-222.812"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-05-02 15:42:07 +0000</string>
+    </dict>
+  </lib>
+</glyph>

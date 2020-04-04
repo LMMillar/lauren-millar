@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="at" format="1">
+  <advance width="894.655"/>
+  <unicode hex="0040"/>
+  <outline>
+    <contour>
+      <point x="550.213" y="38.672" type="curve"/>
+      <point x="493.972" y="80.347" type="line"/>
+      <point x="455.526" y="32.611"/>
+      <point x="438.825" y="8.28"/>
+      <point x="414.221" y="-14.149" type="curve"/>
+      <point x="363.364" y="-63.677"/>
+      <point x="340.477" y="-90.034"/>
+      <point x="288.303" y="-68.88" type="curve"/>
+      <point x="239.79" y="-49.605"/>
+      <point x="228.288" y="-52.571"/>
+      <point x="234.281" y="-59.887" type="curve"/>
+      <point x="202.187" y="-20.702"/>
+      <point x="149.508" y="-4.528"/>
+      <point x="149.508" y="96.281" type="curve"/>
+      <point x="149.508" y="227.886"/>
+      <point x="167.985" y="309.084"/>
+      <point x="237.29" y="453.822" type="curve"/>
+      <point x="255.169" y="491.219"/>
+      <point x="352.027" y="557.355"/>
+      <point x="420.385" y="578.947" type="curve"/>
+      <point x="463.801" y="591.993"/>
+      <point x="571.098" y="608.553"/>
+      <point x="604.026" y="608.553" type="curve"/>
+      <point x="630.543" y="608.553"/>
+      <point x="692.353" y="596.492"/>
+      <point x="709.486" y="587.519" type="curve"/>
+      <point x="731.97" y="575.365"/>
+      <point x="741.703" y="539.881"/>
+      <point x="741.703" y="501.596" type="curve"/>
+      <point x="741.703" y="453.15"/>
+      <point x="724.956" y="401.977"/>
+      <point x="703.659" y="329.507" type="curve"/>
+      <point x="630.35" y="198.624" type="line"/>
+      <point x="591.275" y="162.439" type="line"/>
+      <point x="629.177" y="169.891" type="line"/>
+      <point x="629.177" y="231.109"/>
+      <point x="642.994" y="288.986"/>
+      <point x="642.994" y="354.296" type="curve"/>
+      <point x="651.875" y="370.132" type="line"/>
+      <point x="682.664" y="486.195"/>
+      <point x="606.137" y="529.593"/>
+      <point x="536.584" y="466.837" type="curve"/>
+      <point x="492.319" y="426.899"/>
+      <point x="414.413" y="285.767"/>
+      <point x="367.17" y="234.732" type="curve"/>
+      <point x="282.882" y="153.222" type="line"/>
+      <point x="320.95" y="188.234" type="line"/>
+      <point x="341.365" y="238.019"/>
+      <point x="362.238" y="296.356"/>
+      <point x="387.54" y="367.199" type="curve"/>
+      <point x="393.602" y="384.311"/>
+      <point x="400.069" y="408.25"/>
+      <point x="406.86" y="433.799" type="curve"/>
+      <point x="376.232" y="388.174" type="line"/>
+      <point x="419.439" y="372.836"/>
+      <point x="526.913" y="318.656"/>
+      <point x="551.513" y="318.656" type="curve"/>
+      <point x="551.513" y="405.219" type="line"/>
+      <point x="538.526" y="405.219"/>
+      <point x="431.635" y="457.204"/>
+      <point x="405.361" y="466.531" type="curve"/>
+      <point x="394.913" y="470.233"/>
+      <point x="350.998" y="479.24"/>
+      <point x="341.42" y="479.24" type="curve"/>
+      <point x="338.751" y="479.24"/>
+      <point x="336.928" y="477.695"/>
+      <point x="336.928" y="472.812" type="curve"/>
+      <point x="336.928" y="430.343"/>
+      <point x="334.403" y="434.253"/>
+      <point x="319.838" y="389.219" type="curve"/>
+      <point x="299.718" y="327.555"/>
+      <point x="278.986" y="270.473"/>
+      <point x="265.834" y="207.609" type="curve"/>
+      <point x="257.515" y="168.156"/>
+      <point x="250.655" y="55.65"/>
+      <point x="261.066" y="65.719" type="curve"/>
+      <point x="312.938" y="115.632"/>
+      <point x="377.092" y="155.999"/>
+      <point x="426.009" y="208.844" type="curve"/>
+      <point x="484.127" y="271.63"/>
+      <point x="525.297" y="353.375"/>
+      <point x="589.597" y="411.39" type="curve"/>
+      <point x="595.111" y="415.527"/>
+      <point x="573.17" y="357.97"/>
+      <point x="573.17" y="354.296" type="curve"/>
+      <point x="573.17" y="291.265"/>
+      <point x="569.353" y="233.389"/>
+      <point x="569.353" y="169.891" type="curve"/>
+      <point x="569.353" y="141.292"/>
+      <point x="583.354" y="119.928"/>
+      <point x="616.933" y="106.766" type="curve"/>
+      <point x="622.461" y="104.599"/>
+      <point x="628.553" y="99.102"/>
+      <point x="634.091" y="99.102" type="curve"/>
+      <point x="642.046" y="99.102"/>
+      <point x="645.405" y="108.349"/>
+      <point x="649.502" y="112.766" type="curve"/>
+      <point x="657.14" y="121.69"/>
+      <point x="669.821" y="127.306"/>
+      <point x="679.625" y="134.859" type="curve"/>
+      <point x="704.642" y="154.131"/>
+      <point x="761.873" y="286.593"/>
+      <point x="768.623" y="309.562" type="curve"/>
+      <point x="786.79" y="371.386"/>
+      <point x="811.527" y="438.975"/>
+      <point x="811.527" y="504.721" type="curve"/>
+      <point x="811.527" y="560.572"/>
+      <point x="782.299" y="640.027"/>
+      <point x="748.984" y="657.984" type="curve"/>
+      <point x="712.696" y="676.882"/>
+      <point x="648.317" y="694.803"/>
+      <point x="604.026" y="694.803" type="curve"/>
+      <point x="561.637" y="694.803"/>
+      <point x="448.8" y="674.765"/>
+      <point x="393.986" y="658.516" type="curve"/>
+      <point x="319.041" y="634.844"/>
+      <point x="199.027" y="545.671"/>
+      <point x="171.705" y="487.828" type="curve"/>
+      <point x="105.865" y="348.441"/>
+      <point x="77.496" y="241.014"/>
+      <point x="77.496" y="93.156" type="curve"/>
+      <point x="77.496" y="28.179"/>
+      <point x="125.164" y="-46.905"/>
+      <point x="172.17" y="-104.297" type="curve"/>
+      <point x="194.887" y="-131.895"/>
+      <point x="279.095" y="-159.323"/>
+      <point x="319.386" y="-159.323" type="curve"/>
+      <point x="379.727" y="-159.323"/>
+      <point x="409.617" y="-117.873"/>
+      <point x="459.911" y="-73.391" type="curve"/>
+      <point x="489.257" y="-47.207"/>
+      <point x="545.93" y="29.397"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-05-13 09:03:52 +0000</string>
+    </dict>
+  </lib>
+</glyph>

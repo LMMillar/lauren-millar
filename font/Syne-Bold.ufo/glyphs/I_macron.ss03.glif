@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Imacron.ss03" format="1">
+  <advance width="323.75"/>
+  <outline>
+    <component base="I"/>
+    <component base="macroncomb.ss03" xOffset="-91.563" yOffset="124.375"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndexLayer</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-05-13 08:43:36 +0000</string>
+    </dict>
+  </lib>
+</glyph>

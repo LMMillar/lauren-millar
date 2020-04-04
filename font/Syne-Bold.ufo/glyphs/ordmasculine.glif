@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ordmasculine" format="1">
+  <advance width="703.875"/>
+  <unicode hex="00BA"/>
+  <outline>
+    <contour>
+      <point x="353.25" y="285.081" type="curve"/>
+      <point x="527.5" y="285.081"/>
+      <point x="634.375" y="363.706"/>
+      <point x="634.375" y="495.644" type="curve"/>
+      <point x="634.375" y="626.581"/>
+      <point x="527.5" y="708.206"/>
+      <point x="353.25" y="708.206" type="curve"/>
+      <point x="177.688" y="708.206"/>
+      <point x="69.5" y="626.581"/>
+      <point x="69.5" y="495.644" type="curve"/>
+      <point x="69.5" y="363.706"/>
+      <point x="177.688" y="285.081"/>
+    </contour>
+    <contour>
+      <point x="353.25" y="380.331" type="curve"/>
+      <point x="247.438" y="380.331"/>
+      <point x="198.812" y="428.206"/>
+      <point x="198.812" y="495.644" type="curve"/>
+      <point x="198.812" y="563.081"/>
+      <point x="248.75" y="612.956"/>
+      <point x="353.25" y="612.956" type="curve"/>
+      <point x="457.75" y="612.956"/>
+      <point x="505.062" y="562.081"/>
+      <point x="505.062" y="495.644" type="curve"/>
+      <point x="505.062" y="428.206"/>
+      <point x="456.438" y="380.331"/>
+    </contour>
+    <contour>
+      <point x="353.25" y="-10" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="351.938" y="250" type="move" name="center"/>
+    </contour>
+    <contour>
+      <point x="466.125" y="10" type="move" name="ogonek"/>
+    </contour>
+    <contour>
+      <point x="353.25" y="510" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="698.438" y="500" type="move" name="topright"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-04-25 11:04:19 +0000</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yen" format="1">
+  <advance width="740"/>
+  <unicode hex="00A5"/>
+  <outline>
+    <contour>
+      <point x="18.75" y="646.875" type="line"/>
+      <point x="303.438" y="203.961" type="line"/>
+      <point x="436.562" y="203.961" type="line"/>
+      <point x="721.25" y="646.875" type="line"/>
+      <point x="567.188" y="646.875" type="line"/>
+      <point x="331.679" y="259.704" type="line"/>
+      <point x="412.092" y="259.859" type="line"/>
+      <point x="172.812" y="646.875" type="line"/>
+    </contour>
+    <contour>
+      <point x="303.438" y="82.57" type="line"/>
+      <point x="303.438" y="0" type="line"/>
+      <point x="436.562" y="0" type="line"/>
+      <point x="436.562" y="82.57" type="line"/>
+    </contour>
+    <contour>
+      <point x="549.688" y="122.059" type="line"/>
+      <point x="190.312" y="122.059" type="line"/>
+      <point x="190.312" y="53.621" type="line"/>
+      <point x="549.688" y="53.621" type="line"/>
+    </contour>
+    <contour>
+      <point x="549.688" y="232.059" type="line"/>
+      <point x="190.312" y="232.059" type="line"/>
+      <point x="190.312" y="163.621" type="line"/>
+      <point x="549.688" y="163.621" type="line"/>
+    </contour>
+    <contour>
+      <point x="370" y="87.84" type="move" name="_center"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-05-13 08:44:02 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>Y</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>Y</string>
+    </dict>
+  </lib>
+</glyph>

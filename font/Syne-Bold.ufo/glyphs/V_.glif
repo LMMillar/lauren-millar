@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="V" format="1">
+  <advance width="775"/>
+  <unicode hex="0056"/>
+  <outline>
+    <contour>
+      <point x="305.562" y="0" type="line"/>
+      <point x="472.062" y="0" type="line"/>
+      <point x="472.062" y="0"/>
+      <point x="755" y="646.875"/>
+      <point x="755" y="646.875" type="curve"/>
+      <point x="610.375" y="646.875" type="line"/>
+      <point x="610.375" y="646.875"/>
+      <point x="364.375" y="57.562"/>
+      <point x="364.375" y="57.562" type="curve"/>
+      <point x="356" y="46.562" type="line"/>
+    </contour>
+    <contour>
+      <point x="20" y="646.875" type="line"/>
+      <point x="305.562" y="0" type="line"/>
+      <point x="472.062" y="0" type="line"/>
+      <point x="422.938" y="43.562" type="line"/>
+      <point x="413.25" y="57.562" type="line"/>
+      <point x="167.25" y="646.875" type="line"/>
+    </contour>
+    <contour>
+      <point x="387.5" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="387.5" y="680" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-05-13 08:43:29 +0000</string>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

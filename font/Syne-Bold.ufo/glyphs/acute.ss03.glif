@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="acute.ss03" format="1">
+  <advance width="493.46875"/>
+  <outline>
+    <contour>
+      <point x="231.28" y="759.329" type="line"/>
+      <point x="95.439" y="601.337" type="line"/>
+      <point x="219.31" y="601.337" type="line"/>
+      <point x="403.468" y="759.329" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-05-02 15:42:07 +0000</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="h" format="1">
+  <advance width="701.375"/>
+  <unicode hex="0068"/>
+  <outline>
+    <contour>
+      <point x="198.75" y="696.766" type="line"/>
+      <point x="68.75" y="696.766" type="line"/>
+      <point x="68.75" y="0" type="line"/>
+      <point x="198.75" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="644" y="317.75" type="line"/>
+      <point x="514" y="272.75" type="line"/>
+      <point x="514" y="0" type="line"/>
+      <point x="644" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="514" y="272.75" type="curve"/>
+      <point x="644" y="317.75" type="line"/>
+      <point x="644" y="446.085"/>
+      <point x="551.771" y="508.438"/>
+      <point x="429.5" y="508.438" type="curve"/>
+      <point x="288.441" y="508.438"/>
+      <point x="203.802" y="410.517"/>
+      <point x="190.875" y="321.875" type="curve"/>
+      <point x="192.188" y="267" type="line"/>
+      <point x="198.361" y="331.996"/>
+      <point x="276.272" y="395.625"/>
+      <point x="374.125" y="395.625" type="curve"/>
+      <point x="475.287" y="395.625"/>
+      <point x="514" y="353.746"/>
+    </contour>
+    <contour>
+      <point x="356.375" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="253.361" y="348.339" type="move" name="center"/>
+    </contour>
+    <contour>
+      <point x="396.062" y="510" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-05-13 08:54:07 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>n</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

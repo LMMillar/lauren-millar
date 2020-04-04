@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="pi" format="1">
+  <advance width="782.5"/>
+  <unicode hex="03C0"/>
+  <outline>
+    <contour>
+      <point x="301.875" y="496.875" type="line"/>
+      <point x="171.875" y="496.875" type="line"/>
+      <point x="171.875" y="0" type="line"/>
+      <point x="301.875" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="732.5" y="398.438" type="line"/>
+      <point x="732.5" y="496.875" type="line"/>
+      <point x="50" y="496.875" type="line"/>
+      <point x="50" y="398.438" type="line"/>
+    </contour>
+    <contour>
+      <point x="610.625" y="190.875" type="curve"/>
+      <point x="610.625" y="496.875" type="line"/>
+      <point x="480.625" y="496.875" type="line"/>
+      <point x="480.625" y="184.625" type="line" smooth="yes"/>
+      <point x="480.625" y="57.934"/>
+      <point x="555.25" y="-10"/>
+      <point x="731.812" y="-10" type="curve"/>
+      <point x="731.812" y="91.875" type="line"/>
+      <point x="641.25" y="91.875"/>
+      <point x="610.625" y="103.829"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-04-25 11:04:19 +0000</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="macron.ss03" format="1">
+  <advance width="506.875"/>
+  <outline>
+    <contour>
+      <point x="99.999" y="689.72" type="line"/>
+      <point x="99.999" y="609.425" type="line"/>
+      <point x="406.874" y="609.425" type="line"/>
+      <point x="406.874" y="689.72" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-05-02 15:51:39 +0000</string>
+    </dict>
+  </lib>
+</glyph>

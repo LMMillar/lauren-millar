@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="b" format="1">
+  <advance width="744.625"/>
+  <unicode hex="0062"/>
+  <outline>
+    <component base="d" xScale="-1" xOffset="744.625"/>
+    <contour>
+      <point x="351.75" y="-10" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="402.938" y="510" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-05-13 09:08:09 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>o</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

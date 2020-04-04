@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="cedillacomb.ss03" format="1">
+  <advance width="511.125"/>
+  <outline>
+    <component base="cedilla.ss03"/>
+    <contour>
+      <point x="295.819" y="0" type="move" name="_bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>cedilla.ss03</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-05-12 09:07:50 +0000</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="cedilla.ss03" format="1">
+  <advance width="511.125"/>
+  <outline>
+    <contour>
+      <point x="201.122" y="-115.787" type="curve"/>
+      <point x="106.872" y="-115.787" type="line"/>
+      <point x="103.408" y="-179.204"/>
+      <point x="160.622" y="-239.287"/>
+      <point x="261.682" y="-239.287" type="curve"/>
+      <point x="366.747" y="-239.287"/>
+      <point x="420.497" y="-189.931"/>
+      <point x="420.497" y="-134.18" type="curve"/>
+      <point x="420.497" y="-74.742"/>
+      <point x="374.455" y="-47.285"/>
+      <point x="317.789" y="-35.609" type="curve"/>
+      <point x="237.137" y="-64.135" type="line"/>
+      <point x="303.654" y="-76.828"/>
+      <point x="310.247" y="-102.674"/>
+      <point x="310.247" y="-117.163" type="curve"/>
+      <point x="310.247" y="-138.953"/>
+      <point x="295.747" y="-157.1"/>
+      <point x="258.507" y="-157.1" type="curve"/>
+      <point x="211.81" y="-157.1"/>
+      <point x="203.579" y="-127.254"/>
+    </contour>
+    <contour>
+      <point x="345.549" y="17.121" type="line"/>
+      <point x="237.142" y="17.121" type="line"/>
+      <point x="237.142" y="-64.386" type="line"/>
+      <point x="345.549" y="-70.636" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-05-13 09:25:16 +0000</string>
+    </dict>
+  </lib>
+</glyph>

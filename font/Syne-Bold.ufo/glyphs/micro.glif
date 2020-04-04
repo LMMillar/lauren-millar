@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="micro" format="1">
+  <advance width="744.59187"/>
+  <unicode hex="00B5"/>
+  <outline>
+    <contour>
+      <point x="59.995" y="496.875" type="line"/>
+      <point x="59.995" y="-200.171" type="line"/>
+      <point x="189.995" y="-200.171" type="line"/>
+      <point x="189.995" y="496.875" type="line"/>
+    </contour>
+    <contour>
+      <point x="310.245" y="-11.562" type="curve"/>
+      <point x="472.745" y="-11.562"/>
+      <point x="506.558" y="156.625"/>
+      <point x="513.12" y="205" type="curve"/>
+      <point x="511.808" y="239.25" type="line"/>
+      <point x="511.808" y="239.25"/>
+      <point x="471.245" y="93.438"/>
+      <point x="324.995" y="93.438" type="curve"/>
+      <point x="248.558" y="93.438"/>
+      <point x="189.995" y="121.438"/>
+      <point x="189.995" y="223.938" type="curve"/>
+      <point x="156.87" y="196.125" type="line"/>
+      <point x="156.87" y="54.25"/>
+      <point x="207.87" y="-11.562"/>
+    </contour>
+    <contour>
+      <point x="731.466" y="-6.875" type="curve"/>
+      <point x="731.466" y="107.414" type="line"/>
+      <point x="666.358" y="107.414"/>
+      <point x="635.245" y="118.319"/>
+      <point x="635.245" y="194.212" type="curve"/>
+      <point x="635.245" y="496.875" type="line"/>
+      <point x="505.105" y="496.875" type="line"/>
+      <point x="505.105" y="169.227" type="line" smooth="yes"/>
+      <point x="505.105" y="58.564"/>
+      <point x="568.332" y="-6.875"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-05-13 09:08:17 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>u</string>
+    </dict>
+  </lib>
+</glyph>
