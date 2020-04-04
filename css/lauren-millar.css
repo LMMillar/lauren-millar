@@ -6,6 +6,22 @@ body{
 	background-color: #000000;
 }
 
+
+h1{
+	font-family: 'Montserrat', sans-serif;
+  font-size: 85px;
+  color: #7DFA96;
+  line-height: 85px;
+}
+p{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 700;
+  color: #FFFFE0;
+  font-size: 34px
+
+
+}
+
 h1 {
   animation: 10000ms ease-in-out infinite color-change;
 }
@@ -24,26 +40,11 @@ h1 {
     color: violet;
   }
   80% {
-    bcolor: green;
+    olor: green;
   }
   100% {
     color: teal;
   }
-}
-
-
-h1{
-	font-family: 'Montserrat', sans-serif;
-  font-size: 85px;
-  
-  line-height: 85px;
-}
-p{
-  font-family: 'Montserrat', sans-serif;
-  font-weight: 700;
-  color: #FFFFE0;
-  font-size: 34px
-
 }
 
 
