@@ -3,9 +3,33 @@ body{
   padding-left: 20px;
   padding-right: 20px;
   padding-top: 0px;
-	background-color: #000000;
+	
 }
 
+body {
+  animation: 10000ms ease-in-out infinite color-change;
+}
+
+@keyframes color-change {
+  0% {
+    background-color: teal;
+  }
+  20% {
+    background-color: gold;
+  }
+  40% {
+    background-color: indianred;
+  }
+  60% {
+    background-color: violet;
+  }
+  80% {
+    background-color: green;
+  }
+  100% {
+    background-color: teal;
+  }
+}
 
 
 h1{
@@ -43,3 +67,7 @@ p{
   }
 }
 }
+
+<style>.crosshair {cursor: crosshair;}</style>
+
+.crosshair {cursor: crosshair;}
